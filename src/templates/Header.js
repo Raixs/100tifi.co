@@ -4,13 +4,13 @@ const Header = () => {
         <div class"Header-logo">
             <h1>
                 <a href="/">
-                   Rick y morty AUTOGEN
+                   100tifi.co
                 </a>
             </h1>
         </div>
         <div class"Header-nav">
             <a href="#/about/">
-                  Sobre Hans
+                  100tifi.co
             </a>
         </div>
     </div>
